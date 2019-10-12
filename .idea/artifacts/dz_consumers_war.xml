@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="dz-consumers:war">
+    <output-path>$PROJECT_DIR$/dz-consumers/target</output-path>
+    <root id="archive" name="dz-consumers-0.0.1-SNAPSHOT.war">
+      <element id="artifact" artifact-name="dz-consumers:war exploded" />
+    </root>
+  </artifact>
+</component>
